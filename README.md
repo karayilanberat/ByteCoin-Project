@@ -6,7 +6,9 @@ ByteCoin is an app that allows users to track the current exchange rate of vario
 
 ## ScreenShots
 
-![Simulator Screenshot - iPhone 14 Pro - 2024-07-20 at 17 43 49](https://github.com/user-attachments/assets/29dc6feb-b90b-444b-9b3b-f8366a427a13)
+
+<img src="https://github.com/user-attachments/assets/29dc6feb-b90b-444b-9b3b-f8366a427a13" width="300">
+
 
 ## Features
 
